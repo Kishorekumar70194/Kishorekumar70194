@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kishorekumar70194
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Jawa
+- 🌱 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me kishorekumars.771@gmail.com
 
